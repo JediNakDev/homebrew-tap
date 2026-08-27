@@ -11,7 +11,7 @@ class TribiosVfs < Formula
   desc "Copy-on-write virtual filesystem for parallel agent workspaces"
   homepage "https://github.com/JediNakDev/tribios-vfs"
   url "https://github.com/JediNakDev/tribios-vfs/releases/download/v0.0.1/tribios-vfs-0.0.1.tar.gz"
-  sha256 "be0cc84fd2c4f7c53cf25c8fee7e14fc0bc3112d28f5cdfb6cc774f6cdce66a9"
+  sha256 "0d6a333ad1a08afb2ab6601fc1d87fee9764cac584d1ed5c6297ce00dc1e2171"
   license "MIT"
 
   depends_on "cmake" => :build
